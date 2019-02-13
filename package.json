@@ -1,0 +1,17 @@
+{
+  "name": "dashiest",
+  "version": "1.0.0",
+  "description": "Orchestrates common operations and plugins used to change the layout and presentation of social-media dashboards/timelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Sydoff",
+  "license": "MIT",
+  "dependencies": {
+    "ev-emitter": "^1.1.1",
+    "imagesloaded": "^4.1.4",
+    "masonry-layout": "^4.2.2",
+    "scrollmonitor": "^1.2.4"
+  }
+}
